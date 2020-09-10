@@ -228,5 +228,9 @@ footer .container {
   }
   figure h2.titulo{
     margin: 0;
+    padding-top: 5px;
+  }
+  a.cta1{
+    display: none;
   }
 }
