@@ -140,6 +140,11 @@ figure h2.titulo {
   left: 0;
   width: 100%;
 }
+.profile{
+  width: auto;
+  height: 30%;
+  border-radius: 5%;
+}
 /* --------  Textos  -------- */
 h1 {
   text-align: center;
@@ -201,7 +206,7 @@ footer .container {
 }
 /* --------  Responsividade  --------*/
 @media all and (max-width: 768px) {
-  .coluna, .coluna.quatro, .coluna.tres, .coluna.dois {
+  .coluna, .coluna.quatro, .coluna.tres, .coluna.dois, .foto.dois {
     display: block;
     width: 80%;
     padding: 0;
